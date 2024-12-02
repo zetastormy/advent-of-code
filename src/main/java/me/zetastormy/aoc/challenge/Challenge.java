@@ -7,4 +7,7 @@ public interface Challenge {
     void firstPart();
 
     void secondPart();
+
+    @Override
+    String toString();
 }
