@@ -12,6 +12,7 @@ public class ChallengeModule implements Module {
                 .to(FirstDayChallenge.class)
                 .to(SecondDayChallenge.class)
                 .to(ThirdDayChallenge.class)
-                .to(FourthDayChallenge.class);
+                .to(FourthDayChallenge.class)
+                .to(FifthDayChallenge.class);
     }
 }
