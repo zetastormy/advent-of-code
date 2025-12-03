@@ -1,7 +1,7 @@
 use std::str;
 
 pub fn solve() {
-    println!("---===* DAY 01 *===---");
+    println!("\n---===* DAY 01 *===---");
 
     let rotations = include_str!("../../data/01.txt").trim_end();
 
